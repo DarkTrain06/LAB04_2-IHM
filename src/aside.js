@@ -1,6 +1,6 @@
 const Aside = () => {
     return <aside>
-        <p>aside</p>
+        <p>$</p>
     </aside>;
 }
 

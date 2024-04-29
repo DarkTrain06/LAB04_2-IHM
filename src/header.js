@@ -11,7 +11,7 @@ const Header = () => {
           <div className="col">
             <nav>
               <ul className="d-flex justify-content-end">
-              <button type="button" class="btn btn-outline-primary">Productos</button>
+                <button type="button" class="btn btn-outline-primary">Productos</button>
                 <button type="button" class="btn btn-outline-success">Marcas</button>
                 <button type="button" class="btn btn-outline-warning">Accesorios</button>
                 <button type="button" class="btn btn-outline-info">Más</button>
